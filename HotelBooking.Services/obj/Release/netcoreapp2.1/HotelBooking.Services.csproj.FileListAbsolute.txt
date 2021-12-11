@@ -1,0 +1,9 @@
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\bin\Release\netcoreapp2.1\HotelBooking.Services.deps.json
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\bin\Release\netcoreapp2.1\HotelBooking.Services.dll
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\bin\Release\netcoreapp2.1\HotelBooking.Services.pdb
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.csprojAssemblyReference.cache
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.csproj.CoreCompileInputs.cache
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.AssemblyInfoInputs.cache
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.AssemblyInfo.cs
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.dll
+E:\ReactAsp.netCore\ReactReduxApp\HotelBooking.Services\obj\Release\netcoreapp2.1\HotelBooking.Services.pdb

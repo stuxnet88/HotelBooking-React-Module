@@ -1,0 +1,1 @@
+﻿export const myConfig  = { apiUrl: 'api/login'};
